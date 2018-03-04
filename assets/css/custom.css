@@ -1,0 +1,9 @@
+.trans {
+    color: #333;
+}
+.trans.active {
+    color: #42a5f5;
+}
+#services .fa {
+    min-width: 50px;
+}
