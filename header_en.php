@@ -1,4 +1,4 @@
-hp<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <!-- Title -->
@@ -59,34 +59,34 @@ hp<!DOCTYPE html>
               <div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar">
                 <ul id="js-scroll-nav" class="navbar-nav text-uppercase g-font-weight-700 g-font-size-11 g-pt-20 g-pt-5--lg ml-auto">
                   <li class="nav-item g-mr-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="/index.php" class="nav-link p-0">关于我们</a>
+                    <a href="/index.php" class="nav-link p-0">About us</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="/service_cn_1.php" class="nav-link p-0">移民</a>
+                    <a href="/service_en_1.php" class="nav-link p-0">Immigration</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="/service_cn_2.php" class="nav-link p-0">刑事</a>
+                    <a href="/service_en_2.php" class="nav-link p-0">Criminal</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="/service_cn_4.php" class="nav-link p-0">民事</a>
+                    <a href="/service_en_4.php" class="nav-link p-0">Civil</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="/service_cn_3.php" class="nav-link p-0">地产</a>
+                    <a href="/service_en_3.php" class="nav-link p-0">Real Estate</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="/service_cn_5.php" class="nav-link p-0">合同</a>
+                    <a href="/service_en_5.php" class="nav-link p-0">Contract</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="/index.php#team" class="nav-link p-0">律师团队</a>
+                    <a href="/index.php#team" class="nav-link p-0">Team</a>
                   </li>
                   <li class="nav-item g-ml-15--lg">
-                    <a href="/index.php#contact" class="nav-link p-0">联系我们</a>
+                    <a href="/index.php#contact" class="nav-link p-0">Contact us</a>
                   </li>
                   <li class="nav-item g-ml-25--lg">
                       <span>
-                          <a href="index_en.php" class="trans p-0 ">English</a>
+                          <a href="index_en.php" class="trans p-0 active">English</a>
                           /
-                          <a href="index.php" class="trans p-0 active" >中文</a>
+                          <a href="index.php" class="trans p-0" >中文</a>
                       </span>
                   </li>
                 </ul>

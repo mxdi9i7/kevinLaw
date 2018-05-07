@@ -86,7 +86,7 @@
                    data-splitin="none"
                    data-splitout="none"
                    data-responsive_offset="on">
-                   我们可以保护您的利益在任何法律情况下，无论您来自何处
+                   我们致力于为客户提供专业、全面、优质、高效的法律服务。
               </div>
 
               <!-- LAYER NR. 5 -->
@@ -136,7 +136,7 @@
 
                 <div class="order-1 w-100 u-ns-bg-v1-bottom g-z-index-1 g-py-50 g-py-100--md g-px-15 g-px-50--md">
                   <h3 class="text-uppercase g-line-height-1_1 g-font-weight-800 g-font-size-25 g-font-size-30--md g-mb-20">让我们来为您保驾护航</h3>
-                  <p class="mb-0">我们的宗旨是让客户更好地体验与律师的合作。我们相信通过为客户解决问题来满足他们的期待并用其他意想不到方法来为客户创造更多价值。我们将客户的目标视为自己的目标。
+                  <p class="mb-0">我们相信，通过为客户解决问题，可以达到客户的期待，并为客户创造更多价值。因为我们将客户的目标视为己任。
                   </p>
                 </div>
               </article>
@@ -151,8 +151,8 @@
                 </div>
 
                 <div class="order-2 w-100 u-ns-bg-v1-top g-z-index-1 g-py-50 g-py-100--md g-px-15 g-px-50--md">
-                  <h3 class="text-uppercase g-line-height-1_1 g-font-weight-800 g-font-size-25 g-font-size-30--md g-color-white g-mb-20">我们是最佳的选择</h3>
-                  <p class="g-color-gray-light-v4 mb-0"> 我们积极地提升并帮助客户寻求解决问题的方法，克服不利因素，得到满意的结果并改善他们的生活。
+                  <h3 class="text-uppercase g-line-height-1_1 g-font-weight-800 g-font-size-25 g-font-size-30--md g-color-white g-mb-20">专业的律师团队</h3>
+                  <p class="g-color-gray-light-v4 mb-0"> 我们不仅仅专业服务大纽约地区，并且我们的律师团队拥有全美各州执照，不论你在全美任何角落发生任何问题，请不要犹豫，随时拨打我们的电话。我们的法律部门涵盖各类移民、刑事、地产、合同、诉讼等。
                   </p>
                 </div>
               </article>
@@ -167,8 +167,8 @@
                 </div>
 
                 <div class="order-1 w-100 u-ns-bg-v1-bottom g-z-index-1 g-py-50 g-py-100--md g-px-15 g-px-50--md">
-                  <h3 class="text-uppercase g-line-height-1_1 g-font-weight-800 g-font-size-25 g-font-size-30--md g-mb-20">我们的胜诉率极高</h3>
-                  <p class="mb-0">我们鼓励客户和我们的律师不仅仅只是达到一般的或常规的结果，而是要预测并达到有可能得到的最好结果。 在与睿智和奉献共存的创新型合作中，我们帮助每一位客户达到更好，更明智，更高效的结果。</p>
+                  <h3 class="text-uppercase g-line-height-1_1 g-font-weight-800 g-font-size-25 g-font-size-30--md g-mb-20">我们是您最佳的选择</h3>
+                  <p class="mb-0">作为纽约地区最有影响力的律师楼之一，秉承“客户为先”的核心文化，我们将成为您的法律顾问的最佳选择。通过与中西方具有影响力的律师事务所深入合作通过与中西方具有影响力的律师事务所深入合作，我们可以积极提升客户体验，并且可以寻求最佳的解决方法，致力于改善客户的生活。</p>
                 </div>
               </article>
               <!-- End Article -->
@@ -190,19 +190,16 @@
               </div>
 
               <p class="g-font-size-default g-mb-30">
-                  我们的律师和法律团队在处理各种疑难案件方面经验丰富。 
+              我们的律师和法律团队有各种丰富的经验可以帮您处理各类疑难案件。
               </p>
               <p class="g-font-size-default g-mb-30">
-                  我们的专业和双语律师助理致力于满足您的需求。
+              我们的专业和双语律师助理可以满足您的各种语言需求。
               </p>
               <p class="g-font-size-default g-mb-30">
-                  无论您在美国的哪个地方，我们的律师都在不同的州有执照。
+              我们的律师有全美各州执照。无论您在美国的哪个地方，都可以得到我们的帮助。
               </p>
               <p class="g-font-size-default g-mb-30">
-                  我们的管理团队以客户为导向，专业，我们提供个性化服务。
-              </p>
-              <p class="g-font-size-default g-mb-30">
-                  我们的费用很实惠。 我们可以减少你的担忧和疲劳，并帮助你实现你的梦想。
+              我们的费用合理，可以减少您的压力与担忧。您可以用最合理的价格取得最优质的法律服务。
               </p>
               <a class="btn btn-md text-uppercase u-btn-primary g-font-weight-700 g-font-size-12 g-font-secondary g-brd-none rounded-0 g-py-10 g-px-25 g-mt-25" href="#!">联系我们</a>
             </div>
@@ -304,7 +301,134 @@
         </div>
       </section>
       <!-- End Section Content -->
+      
+      <section class="g-py-50">
+      <div class="container">
+        <header class="text-center g-width-60x--md mx-auto g-mb-50">
+          <h2 class="h1 g-color-gray-dark-v1 g-font-weight-300">招贤纳士</h2>
+          <p class="lead">热爱法律行业，吃苦耐劳并具备专业法律知识？现在加入我们，一起为梦想努力~</p>
+        </header>
 
+        <div class="row g-mb-30">
+          <div class="col-lg-12 g-mb-30 g-mb-0--lg">
+            <!-- Recent Jobs -->
+            <article class="g-pa-25 u-shadow-v11 rounded">
+              <h2 class="h4 g-mb-15">
+                  <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover" href="#!">Junior UX Designer</a>
+                </h2>
+
+              <ul class="list-inline d-flex justify-content-between g-mb-15">
+                <li class="list-inline-item g-mr-20">
+                  <img class="g-height-25 g-width-25 rounded-circle g-mr-5" src="../../assets/img-temp/100x100/img1.jpg" alt="Image Description"> <a class="u-link-v5 g-color-main g-color-primary--hover" href="#!">Htmlstream</a>
+                </li>
+                <li class="list-inline-item">
+                  <span class="js-rating d-block g-color-primary" data-rating="5"><div class="g-rating" style="display: inline-block; position: relative; z-index: 1; white-space: nowrap; margin-left: -2px; margin-right: -2px;"><div class="g-rating-forward" style="position: absolute; left: 0px; top: 0px; height: 100%; overflow: hidden; width: 100%;"><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i></div><div class="g-rating-backward" style="position: relative; z-index: 1;"><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i></div></div></span>
+                </li>
+              </ul>
+
+              <p class="g-mb-15">Nullam elementum tincidunt massa, a pulvinar leo ultricies ut. Ut fringilla lectus tellusimp imperdiet molestie est volutpat at, sed viverra cursus nibh.</p>
+
+              <ul class="list-unstyled">
+                <li class="media g-mb-10">
+                  <span class="d-block g-color-gray-dark-v5 g-width-110">
+                      <i class="icon-wallet g-pos-rel g-top-1 g-mr-5"></i> Sallery:
+                    </span>
+                  <span class="media-body">$4000 - $5000</span>
+                </li>
+                <li class="media g-mb-10">
+                  <span class="d-block g-color-gray-dark-v5 g-width-110">
+                      <i class="icon-calendar g-pos-rel g-top-1 g-mr-5"></i> Date:
+                    </span>
+                  <span class="media-body">3 July, 2017</span>
+                </li>
+                <li class="media g-mb-10">
+                  <span class="d-block g-color-gray-dark-v5 g-width-110">
+                      <i class="icon-user g-pos-rel g-top-1 g-mr-5"></i> Skills:
+                    </span>
+                  <span class="media-body">Photoshop, Sketch</span>
+                </li>
+                <li class="media">
+                  <span class="d-block g-color-gray-dark-v5 g-width-110">
+                      <i class="icon-location-pin g-pos-rel g-top-1 g-mr-5"></i> Location:
+                    </span>
+                  <span class="media-body">London, UK</span>
+                </li>
+              </ul>
+
+              <hr class="g-brd-gray-light-v4">
+
+              <ul class="list-inline d-flex justify-content-between mb-0">
+                <li class="list-inline-item">
+                  <a class="u-tags-v1 g-font-size-12 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover rounded g-py-3 g-px-8" href="#!">Part-Time</a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#!">See Details</a>
+                </li>
+              </ul>
+            </article>
+            <!-- End Recent Jobs -->
+          </div>
+
+          <div class="col-lg-12 g-mb-30 g-mb-0--lg">
+            <!-- Recent Jobs -->
+            <article class="g-pa-25 u-shadow-v11 rounded">
+              <h2 class="h4 g-mb-15">
+                  <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover" href="#!">Ruby Developer</a>
+                </h2>
+
+              <ul class="list-inline d-flex justify-content-between g-mb-15">
+                <li class="list-inline-item g-mr-20">
+                  <img class="g-height-25 g-width-25 rounded-circle g-mr-5" src="../../assets/img-temp/100x100/img5.jpg" alt="Image Description"> <a class="u-link-v5 g-color-main g-color-primary--hover" href="#!">Pinterest</a>
+                </li>
+                <li class="list-inline-item">
+                  <span class="js-rating d-block g-color-primary" data-rating="4"><div class="g-rating" style="display: inline-block; position: relative; z-index: 1; white-space: nowrap; margin-left: -2px; margin-right: -2px;"><div class="g-rating-forward" style="position: absolute; left: 0px; top: 0px; height: 100%; overflow: hidden; width: 80%;"><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i></div><div class="g-rating-backward" style="position: relative; z-index: 1;"><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i></div></div></span>
+                </li>
+              </ul>
+
+              <p class="g-mb-15">Nullam elementum tincidunt massa, a pulvinar leo ultricies ut. Ut fringilla lectus tellusimp imperdiet molestie est volutpat at, sed viverra cursus nibh.</p>
+
+              <ul class="list-unstyled">
+                <li class="media g-mb-10">
+                  <span class="d-block g-color-gray-dark-v5 g-width-110">
+                      <i class="icon-wallet g-pos-rel g-top-1 g-mr-5"></i> Sallery:
+                    </span>
+                  <span class="media-body">$6000 - $8000</span>
+                </li>
+                <li class="media g-mb-10">
+                  <span class="d-block g-color-gray-dark-v5 g-width-110">
+                      <i class="icon-calendar g-pos-rel g-top-1 g-mr-5"></i> Date:
+                    </span>
+                  <span class="media-body">3 July, 2017</span>
+                </li>
+                <li class="media g-mb-10">
+                  <span class="d-block g-color-gray-dark-v5 g-width-110">
+                      <i class="icon-user g-pos-rel g-top-1 g-mr-5"></i> Skills:
+                    </span>
+                  <span class="media-body">Ruby in Rails, JavaScript</span>
+                </li>
+                <li class="media">
+                  <span class="d-block g-color-gray-dark-v5 g-width-110">
+                      <i class="icon-location-pin g-pos-rel g-top-1 g-mr-5"></i> Location:
+                    </span>
+                  <span class="media-body">New York, US</span>
+                </li>
+              </ul>
+
+              <hr class="g-brd-gray-light-v4">
+
+              <ul class="list-inline d-flex justify-content-between mb-0">
+                <li class="list-inline-item"><a class="u-tags-v1 g-font-size-12 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover rounded g-py-3 g-px-8" href="#!">Full-Time</a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#!">See Details</a>
+                </li>
+              </ul>
+            </article>
+            <!-- End Recent Jobs -->
+          </div>
+        </div>
+      </div>
+    </section>
 
       <!-- Section Content -->
       <section id="contact" class="container-fluid g-color-white">
