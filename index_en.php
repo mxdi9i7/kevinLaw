@@ -130,7 +130,7 @@
               <!-- Article -->
               <article class="d-flex flex-wrap text-center g-color-gray-dark-v3">
                 <div class="order-2 w-100">
-                  <img class="w-100" src="assets/img/about1.jpg" alt="Image description">
+                  <img class="w-100" src="assets/team/06.jpg" alt="Image description">
                 </div>
 
                 <div class="order-1 w-100 u-ns-bg-v1-bottom g-z-index-1 g-py-50 g-py-100--md g-px-15 g-px-50--md">
@@ -148,7 +148,7 @@
               <!-- Article -->
               <article class="d-flex flex-wrap text-center g-color-white">
                 <div class="order-1 w-100">
-                  <img class="w-100" src="assets/img/about2.jpg" alt="Image description">
+                  <img class="w-100" src="assets/team/grp01.jpg" alt="Image description">
                 </div>
 
                 <div class="order-2 w-100 u-ns-bg-v1-top g-z-index-1 g-py-50 g-py-100--md g-px-15 g-px-50--md">
@@ -165,7 +165,7 @@
               <!-- Article -->
               <article class="d-flex flex-wrap text-center g-color-gray-dark-v3">
                 <div class="order-2 w-100">
-                  <img class="w-100" src="assets/img/about3.jpg" alt="Image description">
+                  <img class="w-100" src="assets/team/07.jpg" alt="Image description">
                 </div>
 
                 <div class="order-1 w-100 u-ns-bg-v1-bottom g-z-index-1 g-py-50 g-py-100--md g-px-15 g-px-50--md">
@@ -212,7 +212,7 @@
                   <!-- Figure -->
                   <figure class="g-color-gray-dark-v2">
                     <!-- Figure Image -->
-                    <img class="w-100 g-mb-35" src="assets/img/lawyer1.jpg" alt="Image description">
+                    <img class="w-100 g-mb-35" src="assets/team/02.jpg" alt="Image description">
                     <!-- End Figure Image -->
 
                     <!-- Figure Info -->
@@ -243,7 +243,7 @@
                   <!-- Figure -->
                   <figure class="g-color-gray-dark-v2">
                     <!-- Figure Image -->
-                    <img class="w-100 g-mb-35" src="assets/img/lawyer2.jpg" alt="Image description">
+                    <img class="w-100 g-mb-35" src="assets/team/03.jpg" alt="Image description">
                     <!-- End Figure Image -->
 
                     <!-- Figure Info -->
@@ -274,7 +274,7 @@
                   <!-- Figure -->
                   <figure class="g-color-gray-dark-v2">
                     <!-- Figure Image -->
-                    <img class="w-100 g-mb-35" src="assets/img/lawyer3.jpg" alt="Image description">
+                    <img class="w-100 g-mb-35" src="assets/team/04.jpg" alt="Image description">
                     <!-- End Figure Image -->
 
                     <!-- Figure Info -->
