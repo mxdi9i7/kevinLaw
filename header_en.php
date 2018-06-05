@@ -49,9 +49,9 @@
           <nav class="navbar navbar-expand-lg g-py-0">
             <div class="container g-pos-rel">
               <!-- Logo -->
-              <a href="#!" class="js-go-to navbar-brand u-header__logo"
+              <a href="/index_en.php" class="navbar-brand u-header__logo"
                  data-type="static">
-                <img class="u-header__logo-img u-header__logo-img--main" height="40"  src="assets/logo/Logo-02.jpg" alt="Image description">
+                <img class="u-header__logo-img u-header__logo-img--main" height="40"  src="assets/logo/Logo-03.png" alt="Image description">
               </a>
               <!-- End Logo -->
 
@@ -79,7 +79,10 @@
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
                     <a href="/index.php#team" class="nav-link p-0">Team</a>
                   </li>
-                  <li class="nav-item g-ml-15--lg">
+                  <li class="nav-item g-mr-15--lg g-mb-7 g-mb-0--lg">
+                    <a href="/jobs.php" class="nav-link p-0">Jobs</a>
+                  </li>
+                  <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
                     <a href="/index.php#contact" class="nav-link p-0">Contact us</a>
                   </li>
                   <li class="nav-item g-ml-25--lg">

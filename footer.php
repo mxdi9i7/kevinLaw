@@ -1,3 +1,48 @@
+      
+          <div class="shortcode-html">
+            <footer class="g-bg-black-opacity-0_9 g-color-white text-center g-py-100">
+              <div class="container">
+                <form>
+                  <div class="row">
+                    <div class="col-md-7">
+                      <div class="row">
+                        <div class="col-md-6">
+                          <div class="form-group g-mb-20">
+                            <input id="inputGroup10_1" class="form-control g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_5 g-brd-white--focus g-color-white g-rounded-50 g-px-20 g-py-12" type="text" placeholder="Name">
+                          </div>
+
+                          <div class="form-group g-mb-20">
+                            <input id="inputGroup10_2" class="form-control g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_5 g-brd-white--focus g-color-white g-rounded-50 g-px-20 g-py-12" type="tel" placeholder="Phone">
+                          </div>
+                        </div>
+
+                        <div class="col-md-6">
+                          <div class="form-group g-mb-20">
+                            <input id="inputGroup1_3" class="form-control g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_5 g-brd-white--focus g-color-white g-rounded-50 g-px-20 g-py-12" type="email" placeholder="Email">
+                          </div>
+
+                          <div class="form-group g-mb-20">
+                            <input id="inputGroup1_4" class="form-control g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_5 g-brd-white--focus g-color-white g-rounded-50 g-px-20 g-py-12" type="text" placeholder="Subject">
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-md-5">
+                      <div class="form-group g-mb-20">
+                        <textarea id="inputGroup11_5" class="form-control g-resize-none g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_5 g-brd-white--focus g-color-white g-rounded-20 g-px-20 g-py-10" rows="5" placeholder="Message"></textarea>
+                      </div>
+
+                      <div class="text-right">
+                        <button onclick="alert('Successfully Sent!')" class="btn u-btn-white g-font-size-11 text-uppercase g-font-weight-700 g-rounded-50 g-px-35 g-py-15" type="submit" role="button">Submit</button>
+                      </div>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </footer>
+          </div>
+        
       <!-- Footer -->
       <footer>
         <div class="g-color-gray-dark-v3 g-py-60">

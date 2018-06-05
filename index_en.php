@@ -305,138 +305,6 @@
       </section>
       <!-- End Section Content -->
       
-      <section class="g-py-50">
-      <div class="container">
-        <header class="text-center g-width-60x--md mx-auto g-mb-50">
-          <h2 class="h1 g-color-gray-dark-v1 g-font-weight-300">Careers</h2>
-          <p class="lead">Love the legal profession, hard-working and have professional legal knowledge? Join us now and work hard together for a dream~</p>
-        </header>
-
-        <div class="row g-mb-30">
-          <div class="col-lg-12 g-mb-30 g-mb-0--lg">
-            <!-- Recent Jobs -->
-            <article class="g-pa-25 u-shadow-v11 rounded">
-              <h2 class="h4 g-mb-15">
-                  <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover" href="#!">Junior UX Designer</a>
-                </h2>
-
-              <ul class="list-inline d-flex justify-content-between g-mb-15">
-                <li class="list-inline-item g-mr-20">
-                  <img class="g-height-25 g-width-25 rounded-circle g-mr-5" src="../../assets/img-temp/100x100/img1.jpg" alt="Image Description"> <a class="u-link-v5 g-color-main g-color-primary--hover" href="#!">Htmlstream</a>
-                </li>
-                <li class="list-inline-item">
-                  <span class="js-rating d-block g-color-primary" data-rating="5"><div class="g-rating" style="display: inline-block; position: relative; z-index: 1; white-space: nowrap; margin-left: -2px; margin-right: -2px;"><div class="g-rating-forward" style="position: absolute; left: 0px; top: 0px; height: 100%; overflow: hidden; width: 100%;"><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i></div><div class="g-rating-backward" style="position: relative; z-index: 1;"><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i></div></div></span>
-                </li>
-              </ul>
-
-              <p class="g-mb-15">Nullam elementum tincidunt massa, a pulvinar leo ultricies ut. Ut fringilla lectus tellusimp imperdiet molestie est volutpat at, sed viverra cursus nibh.</p>
-
-              <ul class="list-unstyled">
-                <li class="media g-mb-10">
-                  <span class="d-block g-color-gray-dark-v5 g-width-110">
-                      <i class="icon-wallet g-pos-rel g-top-1 g-mr-5"></i> Sallery:
-                    </span>
-                  <span class="media-body">$4000 - $5000</span>
-                </li>
-                <li class="media g-mb-10">
-                  <span class="d-block g-color-gray-dark-v5 g-width-110">
-                      <i class="icon-calendar g-pos-rel g-top-1 g-mr-5"></i> Date:
-                    </span>
-                  <span class="media-body">3 July, 2017</span>
-                </li>
-                <li class="media g-mb-10">
-                  <span class="d-block g-color-gray-dark-v5 g-width-110">
-                      <i class="icon-user g-pos-rel g-top-1 g-mr-5"></i> Skills:
-                    </span>
-                  <span class="media-body">Photoshop, Sketch</span>
-                </li>
-                <li class="media">
-                  <span class="d-block g-color-gray-dark-v5 g-width-110">
-                      <i class="icon-location-pin g-pos-rel g-top-1 g-mr-5"></i> Location:
-                    </span>
-                  <span class="media-body">London, UK</span>
-                </li>
-              </ul>
-
-              <hr class="g-brd-gray-light-v4">
-
-              <ul class="list-inline d-flex justify-content-between mb-0">
-                <li class="list-inline-item">
-                  <a class="u-tags-v1 g-font-size-12 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover rounded g-py-3 g-px-8" href="#!">Part-Time</a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#!">See Details</a>
-                </li>
-              </ul>
-            </article>
-            <!-- End Recent Jobs -->
-          </div>
-
-          <div class="col-lg-12 g-mb-30 g-mb-0--lg">
-            <!-- Recent Jobs -->
-            <article class="g-pa-25 u-shadow-v11 rounded">
-              <h2 class="h4 g-mb-15">
-                  <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover" href="#!">Ruby Developer</a>
-                </h2>
-
-              <ul class="list-inline d-flex justify-content-between g-mb-15">
-                <li class="list-inline-item g-mr-20">
-                  <img class="g-height-25 g-width-25 rounded-circle g-mr-5" src="../../assets/img-temp/100x100/img5.jpg" alt="Image Description"> <a class="u-link-v5 g-color-main g-color-primary--hover" href="#!">Pinterest</a>
-                </li>
-                <li class="list-inline-item">
-                  <span class="js-rating d-block g-color-primary" data-rating="4"><div class="g-rating" style="display: inline-block; position: relative; z-index: 1; white-space: nowrap; margin-left: -2px; margin-right: -2px;"><div class="g-rating-forward" style="position: absolute; left: 0px; top: 0px; height: 100%; overflow: hidden; width: 80%;"><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star" style="margin-left: 2px; margin-right: 2px;"></i></div><div class="g-rating-backward" style="position: relative; z-index: 1;"><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i><i class="fa fa-star-o" style="margin-left: 2px; margin-right: 2px;"></i></div></div></span>
-                </li>
-              </ul>
-
-              <p class="g-mb-15">Nullam elementum tincidunt massa, a pulvinar leo ultricies ut. Ut fringilla lectus tellusimp imperdiet molestie est volutpat at, sed viverra cursus nibh.</p>
-
-              <ul class="list-unstyled">
-                <li class="media g-mb-10">
-                  <span class="d-block g-color-gray-dark-v5 g-width-110">
-                      <i class="icon-wallet g-pos-rel g-top-1 g-mr-5"></i> Sallery:
-                    </span>
-                  <span class="media-body">$6000 - $8000</span>
-                </li>
-                <li class="media g-mb-10">
-                  <span class="d-block g-color-gray-dark-v5 g-width-110">
-                      <i class="icon-calendar g-pos-rel g-top-1 g-mr-5"></i> Date:
-                    </span>
-                  <span class="media-body">3 July, 2017</span>
-                </li>
-                <li class="media g-mb-10">
-                  <span class="d-block g-color-gray-dark-v5 g-width-110">
-                      <i class="icon-user g-pos-rel g-top-1 g-mr-5"></i> Skills:
-                    </span>
-                  <span class="media-body">Ruby in Rails, JavaScript</span>
-                </li>
-                <li class="media">
-                  <span class="d-block g-color-gray-dark-v5 g-width-110">
-                      <i class="icon-location-pin g-pos-rel g-top-1 g-mr-5"></i> Location:
-                    </span>
-                  <span class="media-body">New York, US</span>
-                </li>
-              </ul>
-
-              <hr class="g-brd-gray-light-v4">
-
-              <ul class="list-inline d-flex justify-content-between mb-0">
-                <li class="list-inline-item"><a class="u-tags-v1 g-font-size-12 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover rounded g-py-3 g-px-8" href="#!">Full-Time</a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#!">See Details</a>
-                </li>
-              </ul>
-            </article>
-            <!-- End Recent Jobs -->
-          </div>
-
-          
-            <!-- End Recent Jobs -->
-          </div>
-        </div>
-      </div>
-    </section>
-
       <!-- Section Content -->
       <section id="contact" class="container-fluid g-color-white">
         <div class="row">
@@ -457,6 +325,9 @@
                       <i class="fa fa-map-marker g-absolute-centered--y g-left-0 g-font-size-20 g-color-primary"></i>
                       <span class="g-color-white-opacity-0_3">Address:</span>
                       <strong>136-40 39th Ave #507 Flushing, NY 11354</strong>
+                      <br>
+                      <span class="g-color-white-opacity-0_3">Opening Soon:</span>
+                      <strong>3818 Union Street, Suite 10F Flushing, NY 11354</strong>
                     </div>
 
                     <div class="g-pos-rel g-pl-35 g-mb-25">
