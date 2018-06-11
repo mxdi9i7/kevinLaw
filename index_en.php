@@ -130,14 +130,13 @@
               <!-- Article -->
               <article class="d-flex flex-wrap text-center g-color-gray-dark-v3">
                 <div class="order-2 w-100">
-                  <img class="w-100" src="assets/team/06.jpg" alt="Image description">
+                  <img class="w-100" src="assets/img/about3.jpg" alt="Image description">
                 </div>
 
                 <div class="order-1 w-100 u-ns-bg-v1-bottom g-z-index-1 g-py-50 g-py-100--md g-px-15 g-px-50--md">
                   <h3 class="text-uppercase g-line-height-1_1 g-font-weight-800 g-font-size-25 g-font-size-30--md g-mb-20">Let us help you</h3>
                   <p class="mb-30">
-                  We believe that by solving problems for customers, we can achieve customer expectations and create more value for our customers. Because we regard our customers' goals as our own responsibility.
-                  Through in-depth cooperation with influential law firms in China and the West, and through in-depth cooperation with influential law firms in China, we can actively enhance the customer experience, and we can seek the best solutions to improve our customers' lives.
+                  We consider our customers’ goals as our utmost priority and responsibility. By doing so, we find that through providing solutions for our client, we best meet client expectations and create more value for our customers.
                   </p>
                 </div>
               </article>
@@ -152,9 +151,9 @@
                 </div>
 
                 <div class="order-2 w-100 u-ns-bg-v1-top g-z-index-1 g-py-50 g-py-100--md g-px-15 g-px-50--md">
-                  <h3 class="text-uppercase g-line-height-1_1 g-font-weight-800 g-font-size-25 g-font-size-30--md g-color-white g-mb-20">Professional lawyer team</h3>
+                  <h3 class="text-uppercase g-line-height-1_1 g-font-weight-800 g-font-size-25 g-font-size-30--md g-color-white g-mb-20">Professional legal team</h3>
                   <p class="g-color-gray-light-v4 mb-0"> 
-                  We not only serve the Greater New York area professionally, but our team of lawyers have national licenses from all over the United States. Regardless of whether you have any problems anywhere in the United States, please do not hesitate to call us at any time. Our legal department covers all types of immigration, criminal, real estate, contracts, lawsuits, etc.
+                  We provide our professional services in the Great New York area, but our team of lawyers also have licenses to represent you all over the United States. Regardless of your location in the United States, please do not hesitate to call us at any time. Our office handles immigration, criminal, and real estate cases, including but not limited to contract and other civil lawsuits.
                   </p>
                 </div>
               </article>
@@ -165,12 +164,12 @@
               <!-- Article -->
               <article class="d-flex flex-wrap text-center g-color-gray-dark-v3">
                 <div class="order-2 w-100">
-                  <img class="w-100" src="assets/team/07.jpg" alt="Image description">
+                  <img class="w-100" src="assets/img/about1.jpg" alt="Image description">
                 </div>
 
                 <div class="order-1 w-100 u-ns-bg-v1-bottom g-z-index-1 g-py-50 g-py-100--md g-px-15 g-px-50--md">
                   <h3 class="text-uppercase g-line-height-1_1 g-font-weight-800 g-font-size-25 g-font-size-30--md g-mb-20">We are your best choice</h3>
-                  <p class="mb-0">As one of the most influential law firms in the New York area, adhering to the “customer first” core culture, we will be the best choice for your legal advisor. Through in-depth cooperation with influential law firms in China and the West, and through in-depth cooperation with influential law firms in China and the West, we can actively enhance the customer experience, and we can seek the best solutions to improve our customers' lives.</p>
+                  <p class="mb-0">As one of the most influential law firms in the Greater New York area, adhering to the “customers first” core culture, we are your best choice for legal advice. Through in-depth incorporation of Chinese and Western ideologies, we can actively enhance our clients’ experiences, while continuing to seek the best solution to improve our customers’ lives. </p>
                 </div>
               </article>
               <!-- End Article -->
@@ -192,16 +191,16 @@
               </div>
 
               <p class="g-font-size-default g-mb-30">
-              Our lawyers and legal team have a wealth of experience to help you with all kinds of difficult cases.
+              Our lawyers and legal team have a wealth of experience to help you with all kinds of litigation matters.
               </p>
               <p class="g-font-size-default g-mb-30">
               Our professional and bilingual paralegals can meet your various language needs.
               </p>
               <p class="g-font-size-default g-mb-30">
-              Our lawyers have state licenses throughout the United States. No matter where you are in the United States, you can get our help.
+              Our team of attorneys have state licenses and United States District Court licenses throughout the nation. No matter where you are in the United States, we can help.
               </p>
               <p class="g-font-size-default g-mb-30">
-              Our reasonable cost can reduce your stress and worry. You can get the best quality legal services at the most reasonable prices.
+              We provide legal services at reasonable prices, reducing your stress and worries. With us, be assured that you are receiving quality service while saving more in your pocket. 
               </p>
               <a class="btn btn-md text-uppercase u-btn-primary g-font-weight-700 g-font-size-12 g-font-secondary g-brd-none rounded-0 g-py-10 g-px-25 g-mt-25" href="#!">Contact Us</a>
             </div>
@@ -212,45 +211,14 @@
                   <!-- Figure -->
                   <figure class="g-color-gray-dark-v2">
                     <!-- Figure Image -->
-                    <img class="w-100 g-mb-35" src="assets/team/02.jpg" alt="Image description">
-                    <!-- End Figure Image -->
-
-                    <!-- Figure Info -->
-                    <em class="d-block text-uppercase g-font-size-11 g-font-weight-700 g-font-style-normal g-color-primary g-mb-10">律师</em>
-                    <h4 class="text-uppercase g-font-weight-800 g-font-size-18 g-mb-10">Vicky Zhang (张雯雯)</h4>
-                    <p class="g-font-size-default g-color-gray-dark-v2 mb-0">
-                    Vicky graduated from Vanderbilt University School of Law in 2014 and received a doctorate in law from Emory University School of Law. He has extensive working experience and has worked in a number of professional lawyers' buildings. His field of study is business and civil. criminal.
-                    </p>
-                    <!-- End Info -->
-
-                    <hr class="g-brd-gray-light-v4 g-my-15">
-
-                    <!-- Contact Info -->
-                    <ul class="list-unstyled g-font-size-default g-color-gray-dark-v2 mb-0">
-                      <!-- <li class="g-mb-5">
-                        <i class="fa fa-envelope g-mr-5"></i> Tire@wuesq.com
-                      </li>
-                      <li>
-                        <i class="fa fa-phone-square g-mr-5"></i> +48 555 2566 112
-                      </li> -->
-                    </ul>
-                    <!-- End Contact Info -->
-                  </figure>
-                  <!-- End Figure -->
-                </div>
-
-                <div class="col-md-4 g-mb-30 g-mb-0--md">
-                  <!-- Figure -->
-                  <figure class="g-color-gray-dark-v2">
-                    <!-- Figure Image -->
                     <img class="w-100 g-mb-35" src="assets/team/03.jpg" alt="Image description">
                     <!-- End Figure Image -->
 
                     <!-- Figure Info -->
                     <em class="d-block text-uppercase g-font-size-11 g-font-weight-700 g-font-style-normal g-color-primary g-mb-10">Partner</em>
-                    <h4 class="text-uppercase g-font-weight-800 g-font-size-18 g-mb-10">King Lun Wu (胡凯文)</h4>
+                    <h4 class="text-uppercase g-font-weight-800 g-font-size-18 g-mb-10">King Lun Wu (胡律师)</h4>
                     <p class="g-font-size-default g-color-gray-dark-v2 mb-0">
-                    Hu lawyer mainly engaged in civil, commercial, litigation, but also has a wealth of immigration experience. He graduated from the University of Southern California in 2008 and received a doctorate degree in law from Michigan State University in 2013. He has worked in a number of professional law firms and has accumulated experience in various cases. His rich experience also made him stand out among his peers.
+                    Attorney King Lun Wu received his B.A. degree from University of South Florida and his J.D. from Michigan State University School of Law. He is license to practice law in the State of New York, the United States District Court – Eastern District, and the United States District Court – Southern District. Attorney Wu focuses his practice on criminal defense, civil and commercial litigation, while providing a wealth of immigration experience. His rich experiences from working in a number of law firms has made him stand out among his peers and other attorneys in New York.
                     </p>
                     <!-- End Info -->
 
@@ -269,18 +237,47 @@
                   </figure>
                   <!-- End Figure -->
                 </div>
+                <div class="col-md-4 g-mb-30 g-mb-0--md">
+                  <!-- Figure -->
+                  <figure class="g-color-gray-dark-v2">
+                    <!-- Figure Image -->
+                    <img class="w-100 g-mb-35" src="assets/team/02.jpg" alt="Image description">
+                    <!-- End Figure Image -->
 
+                    <!-- Figure Info -->
+                    <em class="d-block text-uppercase g-font-size-11 g-font-weight-700 g-font-style-normal g-color-primary g-mb-10">律师</em>
+                    <h4 class="text-uppercase g-font-weight-800 g-font-size-18 g-mb-10">Vicky Zhang (张律师)</h4>
+                    <p class="g-font-size-default g-color-gray-dark-v2 mb-0">
+                    Attorney Vicky Zhang graduated from Vanderbilt University School of Law where she earned a Masters of Law and received her juris doctorate degree from Emory University School of Law. She is license to practice law in the State of New York. She has extensive experience in business law, real estate law, and criminal law, as well as other civil litigation matters.
+                    </p>
+                    <!-- End Info -->
+
+                    <hr class="g-brd-gray-light-v4 g-my-15">
+
+                    <!-- Contact Info -->
+                    <ul class="list-unstyled g-font-size-default g-color-gray-dark-v2 mb-0">
+                      <!-- <li class="g-mb-5">
+                        <i class="fa fa-envelope g-mr-5"></i> Tire@wuesq.com
+                      </li>
+                      <li>
+                        <i class="fa fa-phone-square g-mr-5"></i> +48 555 2566 112
+                      </li> -->
+                    </ul>
+                    <!-- End Contact Info -->
+                  </figure>
+                  <!-- End Figure -->
+                </div>
                 <div class="col-md-4">
                   <!-- Figure -->
                   <figure class="g-color-gray-dark-v2">
                     <!-- Figure Image -->
-                    <img class="w-100 g-mb-35" src="assets/team/04.jpg" alt="Image description">
+                    <img class="w-100 g-mb-35" src="assets/img/lawyer1.jpg" alt="Image description">
                     <!-- End Figure Image -->
 
                     <!-- Figure Info -->
                     <em class="d-block text-uppercase g-font-size-11 g-font-weight-700 g-font-style-normal g-color-primary g-mb-10">Partner</em>
                     <h4 class="text-uppercase g-font-weight-800 g-font-size-18 g-mb-10">Tomas Klepton</h4>
-                    <p class="g-font-size-default g-color-gray-dark-v2 mb-0">criminal law</p>
+                    <p class="g-font-size-default g-color-gray-dark-v2 mb-0">Specializes in criminal law</p>
                     <!-- End Info -->
 
                     <hr class="g-brd-gray-light-v4 g-my-15">
@@ -316,7 +313,7 @@
                     <h2 class="text-uppercase u-heading-v2__title g-font-weight-800 g-font-size-30 g-font-size-40--md g-color-white mb-0">Contact Us</h2>
                   </div>
 
-                  <p class="g-color-gray-light-v4 mb-0">Do you have immigration problems? Are you charged with guilty? Are you hurt? divorce? King L. Wu Associates will speak your language and our lawyers have experience you can trust.</p>
+                  <p class="g-color-gray-light-v4 mb-0">Detained by Immigration and Customs Enforcement (ICE)? Charged with a felony? Getting a divorce? Contact us to be your most trusted legal representatives.</p>
                 </div>
                 <div class="col-md-12 col-lg-12 align-self-center contactInfo">
 
@@ -339,7 +336,7 @@
                     <div class="g-pos-rel g-pl-35 g-mb-25">
                       <i class="fa fa-envelope g-absolute-centered--y g-left-0 g-font-size-20 g-color-primary"></i>
                       <span class="g-color-white-opacity-0_3">Email:</span>
-                      <a class="g-color-white" href="mailto:info@wuesq.com"><strong>kelvin@wuesq.com</strong></a>
+                      <a class="g-color-white" href="mailto:info@wuesq.com"><strong>contact@wuesq.com</strong></a>
 
                     </div>
 

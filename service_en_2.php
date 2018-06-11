@@ -18,43 +18,47 @@
                 <div class="u-heading-v1-1 g-bg-main g-brd-gray-light-v2 g-mb-20"> 
                   <h2 class="h3 u-heading-v1__title">Criminal</h2> 
                 </div> 
-                <p>Although each case is different, consulting a senior criminal lawyer as early as possible is always an important step to help you get out of this haze.</p> 
+                <p>Every criminal case is different, but every criminal case is urgent. Having a criminal record can and will your entire life. Therefore, it is very important to consulting an experienced criminal lawyer as early as possible to avoid having a criminal record and jail time.</p> 
               </div>
               <br>
               <div class="serviceBlockContainer">
                   <div class="serviceBlock hvr-grow"  onClick="triggerModal(this)">
                     <h1>Domestic violence</h1>
-                    <p>Domestic violence is a crime that exists in society. Criminals or victims can exist at any age, gender, belief or nationality level.</p>
+                    <p>
+                    Domestic Violence is considered a criminal case in the United States. 
+                    </p>
                     <p class="details">
-                    Domestic violence is a crime that exists in society. Criminals or victims can exist at any age, gender, belief or nationality level. Domestic violence can lead to physical and psychological harm and can greatly affect life and last a lifetime. If you are a victim, or you are framed as a criminal. Contact Kevin Law Firm as soon as possible.
+                    Domestic Violence is considered a criminal case in the United States. Criminals or victims are from all ages, all genders, all beliefs, and nationalities. Domestic violence can lead to physical and psychological harm and can greatly affect someone’s life now and in the future. If you are a victim, or you have been accused on domestic abuse, please contact our office immediately for help. 
                     </p>
                   </div>
                   <div class="serviceBlock hvr-grow"  onClick="triggerModal(this)">
-                    <h1>Unlicensed massage</h1>
+                    <h1>Assault</h1>
+                    <p>
+                    A heated argument can often result in a fight. 
+                    </p>
+                    <p class="details">
+                    A heated argument can often result in a fight. If you believe you have been assaulted or have hurt someone, there might be an assault charge against you. Please contact our office for further assistance.
+                    </p>
+                  </div>
+                  <div class="serviceBlock hvr-grow"  onClick="triggerModal(this)">
+                    <h1>Unlicensed Massage</h1>
                     <p>If a massage therapist does not have a license to serve guests, the law will charge the person with "E" level felony. </p>
                     <p class="details">
-                    If a massage therapist does not have a license to serve guests, the law will charge the person with "E" level felony. According to the law, only licensed personnel can engage in massage or treatment of such industries. If you are convicted, you need to contact an experienced criminal lawyer as soon as possible. contact us! Kevin Law Firm's lawyers are experienced and can help you defend.
+                    If a massage therapist does not have a license to serve guests, the law will charge the person with "E" level felony. According to the law, only licensed personnel can engage in massage or treatment of such industries. If you are convicted or have received a summons, you need to contact our office immediately and seek our legal defense.
                     </p>
                   </div>
                   <div class="serviceBlock hvr-grow"  onClick="triggerModal(this)">
-                    <h1>Credit card fraud</h1>
-                    <p>With the development of the Internet, electronic crime technology is also evolving</p>
+                    <h1>Credit Card Fraud/Identity Theft</h1>
+                    <p>As technology becomes more advanced, credit card fraud and identity theft have become one of the top criminal cases</p>
                     <p class="details">
-                    With the development of the Internet, electronic crime technology is also constantly developing. People can now easily access other people’s accounts and credit card information so that they can create an illegal credit card and sell it to others. When credit cards are stolen, they are still used for shopping or spending, which is credit card fraud. If you are sued for credit card fraud, you must consult a lawyer as soon as possible.
+                    As technology becomes more advanced, credit card fraud and identity theft have become one of the top criminal cases in the country. People can now easily access other people’s accounts and access credit card information, as well as making fraudulent identification cards. Credit cards may also be used when found or stolen. However, when such credit cards are used for payment, the user is considered a criminal, charged with credit card fraud. If you or your family member has been charged with identity theft or credit card fraud, you must consult an attorney as soon as possible.
                     </p>
                   </div>
                   <div class="serviceBlock hvr-grow"  onClick="triggerModal(this)">
-                    <h1>Drunk Driving/Drunk Driving</h1>
+                    <h1>Drunk Driving/DUI</h1>
                     <p> In the United States, drunk driving is a criminal offence. If drunk driving accidents, the penalty will be even more serious.</p>
                     <p class="details">
-                    In the United States, drunk driving is a criminal offence. If drunk driving accidents, the penalty will be even more serious. For drunk drivers, traffic police may impose large fines and related penalties. But you have the right to find a lawyer. Please contact us in time in order to secure a fair amount of interest.
-                    </p>
-                  </div>
-                  <div class="serviceBlock hvr-grow"  onClick="triggerModal(this)">
-                    <h1>Repatriation defense</h1>
-                    <p>There are no more complex, frightening and accompanied procedures for deportation risks in all immigration procedures. Successfully avoided being expelled, an experienced immigration lawyer is essential. If you have reason to believe you are at risk of being expelled, please contact one of our immigration lawyers as soon as possible.</p>
-                    <p class="details">
-                    There are no more complex, frightening and accompanied procedures for deportation risks in all immigration procedures. Successfully avoided being expelled, an experienced immigration lawyer is essential. If you have reason to believe you are at risk of being expelled, please contact one of our immigration lawyers as soon as possible. Being deported can put your entire future in jeopardy. If not handled properly, avoiding being expelled can be counterproductive. This usually means that it will be difficult for you to return to the United States in the future. There are many reasons for being expelled, including illegal entry or staying after a visa expires. Even if they are now legally residing in the United States, they may still be deported because of criminal activities. Although the government bears the burden of proof, you still need an experienced lawyer to investigate your case to prepare the defense. If you receive a court notification or have reason to believe that you will be expelled, Kevin Lawyer’s lawyers have a wealth of knowledge, experience, and language skills to do their best to help you legally stay in the United States. Contact us immediately and we will provide you with the best solution.
+                    In the United States, drunk driving is a criminal offense. The penalty becomes more serious if you become involved in an accident. Police may impose large fines, jail time, and other penalties. Judges may also request for a psychological evaluation of alcohol addiction when becomes a series of sessions and a pile of bills. Please call our office if you or someone you know has been arrested while intoxicated.
                     </p>
                   </div>
                   <div class="serviceBlock hvr-grow"  onClick="triggerModal(this)">
@@ -63,11 +67,11 @@
                     The crime of drug charges is undoubtedly a fearful and full of pressure. You may face jail time, large fines and other penalties depending on the charge you are charged with
                     </p>
                     <p class="details">
-                    The crime of drug charges is undoubtedly a fearful and full of pressure. Depending on the charge you are charged with, you may face jail time, large fines and other penalties. A drug crime may be a misdemeanor or a felony based on penalties for different types of drugs, amounts, and different charges. Whether you are first arrested or committing another crime, our experienced lawyers can defend you.
+                    The crime of drug charges is undoubtedly a scary and stressful situation.  Depending on the charges you are charged with, you may face jail time, large fines and other penalties. A drug crime may be a misdemeanor or a felony based on penalties for different types of drugs, amounts, and charges. Whether this is your first offense or you have been convicted in the past, our experienced attorneys can help you.
                     </p>
                   </div>
                   <div class="serviceBlock hvr-grow"  onClick="triggerModal(this)">
-                    <h1>Prostitution</h1>
+                    <h1>Prostitution/ Promoting Prostitution </h1>
                     <p>
                     According to the New York Penal Code Article 230, the act of a person participating in or agreeing to or making a sexual act with another person to obtain a fee constitutes a crime of prostitution.
                     </p>
@@ -76,33 +80,27 @@
                     </p>
                   </div>
                   <div class="serviceBlock hvr-grow"  onClick="triggerModal(this)">
-                      <h1>Federal crime</h1>
+                      <h1>Federal Crime</h1>
                       <p> The United States is a federal and state decentralized country, and for matters involving only state affairs, the state’s sovereignty is higher than the federal sovereignty, so the juridical form of the field is divided into state law and federal law.</p>
                       <p class="details">
-                      The United States is a federal and state decentralized country, and for matters involving only state affairs, the state’s sovereignty is higher than the federal sovereignty, so the juridical form of the field is divided into state law and federal law. Federal crimes are offences that violate federal laws. It is important to choose an attentive lawyer, but more importantly, there will be a lawyer who will have legal skills. Kevin Law Firm understands the complexity of federal crimes and defends your power with strong legal skills.
+                      The United States has two court systems, federal court and state court. For matters involving only state affairs, the state has jurisdiction; for matters crossing state lines, it becomes a federal case. Laws varies from state to state, and naturally different in federal cases. Federal crimes are offenses that violate federal laws. It is important to choose an attentive lawyer, but more importantly, a lawyer who has the legal experience in federal law. Our office understands the complexity of federal crimes and provide you with the ability to help you.
                       </p>
                     </div>
                     <div class="serviceBlock hvr-grow"  onClick="triggerModal(this)">
                       <h1>White-collar crime</h1>
-                      <p>If you use alleged embezzlement of public funds, fraud or bribery, you need to think that a senior criminal defense lawyer understands the facts of your case after you commit a crime, analyze the court evidence and provide effective defense for you.</p>
+                      <p> If you have been charged with alleged of misappropriation of public funds, fraud or bribery, you need to find an experience criminal defense lawyer</p>
                       <p class="details">
-                      If you use alleged misappropriation of public funds, fraud or bribery, you need to think that a senior criminal defense lawyer understands the facts of your case after you commit a crime, analyze the court evidence and provide effective defense for you. Kevin Law Firm lawyers will use our expertise, experience and language skills to help you reduce or eliminate your allegations, or we will help you avoid serious penalties once you are convicted.
+                      If you have been charged with alleged of misappropriation of public funds, fraud or bribery, you need to find an experience criminal defense lawyer to understands the facts of your case after you commit a crime, analyze the court evidence and provide effective defense for you. 
+Our attorneys will use our expertise, experience and language skills to help you reduce or eliminate your allegations, and help you avoid serious penalties if you are convicted.
                       </p>
                     </div>
                     <div class="serviceBlock hvr-grow"  onClick="triggerModal(this)">
-                      <h1>Appeal after conviction</h1>
+                      <h1>Appeal after Conviction</h1>
                       <p>
-                      Whether you win or lose, you need to quickly assess the options you face
+                      If you or someone you know have been convicted of a crime and are innocent, contact our office immediately
                       </p>
                       <p class="details">
-                      Whether you win or lose, you need to quickly assess the choices you face and prepare to appeal the decision or hope that the appeal will be upheld. Whether in federal or state courts, we can assist you in assessing the problem. Kevin Law Firm's lawyers will use our expertise, experience and language skills to help you defend against pending decisions.
-                      </p>
-                    </div>
-                    <div class="serviceBlock hvr-grow"  onClick="triggerModal(this)">
-                      <h1>Traffic violation</h1>
-                      <p>Whether you win or lose, you need to quickly assess the choices you face and prepare to appeal the decision or hope that the appeal will be upheld. Whether in federal or state courts, we can assist you in assessing the problem.</p>
-                      <p class="details">
-                      Whether it is a student, a working person, or a new immigrant, it is difficult to avoid driving a ticket. Before you pay a fine, please discuss your case with a Kevin Law Firm lawyer. Our lawyers have a wealth of experience to help clients defend various types of crimes, including traffic violations, misdemeanors and felony crimes.
+                      If you or someone you know have been convicted of a crime and are innocent, contact our office immediately to prepare an appeal in either federal or state court. Being convicted of a crime results in a criminal record and can stay with someone his/her entire life. Our attorneys will use our expertise and experience in criminal law to assist your criminal matter.
                       </p>
                     </div>
                 </div>

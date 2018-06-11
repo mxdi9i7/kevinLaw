@@ -131,7 +131,7 @@
               <!-- Article -->
               <article class="d-flex flex-wrap text-center g-color-gray-dark-v3">
                 <div class="order-2 w-100">
-                  <img class="w-100" src="assets/team/06.jpg" alt="Image description">
+                  <img class="w-100" src="assets/img/about3.jpg" alt="Image description">
                 </div>
 
                 <div class="order-1 w-100 u-ns-bg-v1-bottom g-z-index-1 g-py-50 g-py-100--md g-px-15 g-px-50--md">
@@ -163,7 +163,7 @@
               <!-- Article -->
               <article class="d-flex flex-wrap text-center g-color-gray-dark-v3">
                 <div class="order-2 w-100">
-                  <img class="w-100" src="assets/team/07.jpg" alt="Image description">
+                  <img class="w-100" src="assets/img/about1.jpg" alt="Image description">
                 </div>
 
                 <div class="order-1 w-100 u-ns-bg-v1-bottom g-z-index-1 g-py-50 g-py-100--md g-px-15 g-px-50--md">
@@ -206,35 +206,7 @@
 
             <div class="col-lg-9">
               <div class="row">
-                <div class="col-md-4 g-mb-30 g-mb-0--md">
-                  <!-- Figure -->
-                  <figure class="g-color-gray-dark-v2">
-                    <!-- Figure Image -->
-                    <img class="w-100 g-mb-35" src="assets/team/02.jpg" alt="Image description">
-                    <!-- End Figure Image -->
-
-                    <!-- Figure Info -->
-                    <em class="d-block text-uppercase g-font-size-11 g-font-weight-700 g-font-style-normal g-color-primary g-mb-10">律师</em>
-                    <h4 class="text-uppercase g-font-weight-800 g-font-size-18 g-mb-10">Vicky Zhang (张雯雯)</h4>
-                    <p class="g-font-size-default g-color-gray-dark-v2 mb-0">Vicky律师在2014年于范德堡大学法学院毕业，在埃默里大学法学院得到了法学博士学位，有着丰
-                      富的工作经验，曾经工作于多家专业的律师楼，涉猎领域有商业，民事，刑事。</p>
-                    <!-- End Info -->
-
-                    <hr class="g-brd-gray-light-v4 g-my-15">
-
-                    <!-- Contact Info -->
-                    <ul class="list-unstyled g-font-size-default g-color-gray-dark-v2 mb-0">
-                      <!-- <li class="g-mb-5">
-                        <i class="fa fa-envelope g-mr-5"></i> Tire@wuesq.com
-                      </li>
-                      <li>
-                        <i class="fa fa-phone-square g-mr-5"></i> +48 555 2566 112
-                      </li> -->
-                    </ul>
-                    <!-- End Contact Info -->
-                  </figure>
-                  <!-- End Figure -->
-                </div>
+                
 
                 <div class="col-md-4 g-mb-30 g-mb-0--md">
                   <!-- Figure -->
@@ -266,18 +238,46 @@
                   </figure>
                   <!-- End Figure -->
                 </div>
+                <div class="col-md-4 g-mb-30 g-mb-0--md">
+                  <!-- Figure -->
+                  <figure class="g-color-gray-dark-v2">
+                    <!-- Figure Image -->
+                    <img class="w-100 g-mb-35" src="assets/team/02.jpg" alt="Image description">
+                    <!-- End Figure Image -->
 
+                    <!-- Figure Info -->
+                    <em class="d-block text-uppercase g-font-size-11 g-font-weight-700 g-font-style-normal g-color-primary g-mb-10">律师</em>
+                    <h4 class="text-uppercase g-font-weight-800 g-font-size-18 g-mb-10">Vicky Zhang (张雯雯)</h4>
+                    <p class="g-font-size-default g-color-gray-dark-v2 mb-0">Vicky律师在2014年于范德堡大学法学院毕业，在埃默里大学法学院得到了法学博士学位，有着丰
+                      富的工作经验，曾经工作于多家专业的律师楼，涉猎领域有商业，民事，刑事。</p>
+                    <!-- End Info -->
+
+                    <hr class="g-brd-gray-light-v4 g-my-15">
+
+                    <!-- Contact Info -->
+                    <ul class="list-unstyled g-font-size-default g-color-gray-dark-v2 mb-0">
+                      <!-- <li class="g-mb-5">
+                        <i class="fa fa-envelope g-mr-5"></i> Tire@wuesq.com
+                      </li>
+                      <li>
+                        <i class="fa fa-phone-square g-mr-5"></i> +48 555 2566 112
+                      </li> -->
+                    </ul>
+                    <!-- End Contact Info -->
+                  </figure>
+                  <!-- End Figure -->
+                </div>
                 <div class="col-md-4">
                   <!-- Figure -->
                   <figure class="g-color-gray-dark-v2">
                     <!-- Figure Image -->
-                    <img class="w-100 g-mb-35" src="assets/team/04.jpg" alt="Image description">
+                    <img class="w-100 g-mb-35" src="assets/img/lawyer1.jpg" alt="Image description">
                     <!-- End Figure Image -->
 
                     <!-- Figure Info -->
                     <em class="d-block text-uppercase g-font-size-11 g-font-weight-700 g-font-style-normal g-color-primary g-mb-10">Partner</em>
                     <h4 class="text-uppercase g-font-weight-800 g-font-size-18 g-mb-10">Tomas Klepton</h4>
-                    <p class="g-font-size-default g-color-gray-dark-v2 mb-0">criminal law</p>
+                    <p class="g-font-size-default g-color-gray-dark-v2 mb-0">专注刑事法律。</p>
                     <!-- End Info -->
 
                     <hr class="g-brd-gray-light-v4 g-my-15">
